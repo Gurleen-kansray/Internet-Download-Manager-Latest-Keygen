@@ -1,5 +1,5 @@
 # IDM Keygen
-
+ 
 This project provides a key generator (keygen) for Internet Download Manager (IDM). This keygen allows you to generate valid serial keys for IDM, enabling full functionality without purchasing a license.
 
 ## Features
